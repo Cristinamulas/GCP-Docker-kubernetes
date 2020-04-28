@@ -4,3 +4,4 @@ RUN pip install requests
 EXPOSE 5000/tcp
 COPY todolist.py .
 COPY templates/index.html templates/
+CMD python todolist.py
