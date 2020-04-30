@@ -1,1 +1,1 @@
-# GCP-Docker-kubernetics
+# GCP-Docker-kubernetes
